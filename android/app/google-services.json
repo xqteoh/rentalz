@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1043936245914",
+    "project_id": "rental-management-cd86e",
+    "storage_bucket": "rental-management-cd86e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043936245914:android:96ba44326b794782480723",
+        "android_client_info": {
+          "package_name": "com.alienz.rental_management"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1043936245914-k0rmvp6fuljfk5l84hucse8le7l6bhk4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvL14B2c1MM5lA-OjZudb25kMDYiCJHt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1043936245914-k0rmvp6fuljfk5l84hucse8le7l6bhk4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1043936245914-cm3kqgk7up9h8n4ddum9odfatp74ga54.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alienz.rentalManagement"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
